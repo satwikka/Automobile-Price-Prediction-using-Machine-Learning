@@ -52,4 +52,24 @@ the most accurate model.
 
 ---
 
-## 📁 Project Structure
+---
+
+## 🎯 Results
+
+- Ensemble models (Random Forest and XGBoost) outperformed basic regression models
+- XGBoost achieved the best prediction accuracy
+- Streamlit app enables easy and interactive usage
+
+---
+
+## 📌 Conclusion
+
+This project demonstrates an end-to-end machine learning workflow combined with deployment.
+It highlights practical skills in data analysis, model building, and real-world ML application delivery.
+
+---
+
+## 🙌 Author
+
+**Satwika Alluri**  
+Data Analyst | Machine Learning Enthusiast  
